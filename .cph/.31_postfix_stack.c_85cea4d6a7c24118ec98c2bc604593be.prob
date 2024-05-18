@@ -1,0 +1,1 @@
+{"name":"Local: 31_postfix_stack","url":"c:\\Users\\SWAPN\\OneDrive\\Desktop\\swapn\\harry dsa\\31_postfix_stack.c","tests":[{"id":1708876730466,"input":"x-y/z-k*d","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\SWAPN\\OneDrive\\Desktop\\swapn\\harry dsa\\31_postfix_stack.c","group":"local","local":true}
